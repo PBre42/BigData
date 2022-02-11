@@ -11,9 +11,7 @@ import pandas as pd
 
 
 # Etape 0
-#
-#
-#
+# voir .ipynb
 
 # Etape 1
 # On récupère le fichier csv en local
